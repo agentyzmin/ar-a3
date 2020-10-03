@@ -120,14 +120,16 @@
     				return $info['filename'] . '.' . $new_extension;
 				}
 
-				$path = "ar";
+				$path = ".";
+
 				foreach (glob("ar/*.usdz") as $file) {
 					$thumb = replace_extension($file, "png");
+					$name = $file;
 					$name = preg_replace('/\\.[^.\\s]{3,4}$/', '', $file);
-					$name = preg_replace('(' . $path . '/)', '', $name);
+					$name = preg_replace('(ar/)', '', $name);
 					echo "
 						<div class='col-lg-4 col-12'>
-							<a rel='ar' href='$path/$file'><img class='w-100 doc-shadow thumb' src='$path/$thumb'></a>
+							<a rel='ar' href='$path/$file'><img class='w-100 doc-shadow thumb' src='ar/$thumb'></a>
 							<a rel='ar' href='$path/$file'><p class='mt-3 mb-0'>$name</p></a>
 							<p class='caption mt-1'>",
 							formatSizeUnits(filesize($file)),
