@@ -4,16 +4,18 @@
     <g id="favicon-16x16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#000000" x="0" y="0" width="16" height="16"></rect>
         <g id="Group-17" transform="translate(1.850000, 1.000000)">
-            <g id="Group-13" transform="translate(0.000000, 0.011553)" stroke="#FFFFFF" stroke-width="0.796341805">
-                <polyline id="Stroke-1" points="0.0277196225 5.44916505 0.0277929742 3.5531326 1.6698817 2.60506137"></polyline>
-                <polyline id="Stroke-3" points="4.51406607 13.2189701 6.15560465 14.1668213 7.79706989 13.2191168"></polyline>
-                <polyline id="Stroke-5" points="10.6418374 2.60533277 12.283376 3.55314727 12.2834493 5.44870293"></polyline>
-                <polyline id="Stroke-7" points="4.51388636 0.963086338 6.15568167 0.0151984805 7.79769704 0.96315969"></polyline>
-                <polyline id="Stroke-9" points="10.6416944 11.5767567 12.2834897 10.6288688 12.2834163 8.73334983"></polyline>
-                <polyline id="Stroke-11" points="1.66943058 11.5766833 0.0278919991 10.6288321 0.0278186473 8.73334983"></polyline>
+            <g id="Group-13" transform="translate(0.750000, 0.700000)" stroke="#FFFFFF" stroke-width="0.700780784">
+                <polyline id="Stroke-1" points="0.0243932676 4.79526522 0.0244578172 3.12675667 1.46949589 2.29245399"></polyline>
+                <polyline id="Stroke-3" points="3.97237812 11.6326936 5.41693207 12.4668027 6.86142146 11.6328227"></polyline>
+                <polyline id="Stroke-5" points="9.36481686 2.29269282 10.8093708 3.12676958 10.8094354 4.79485856"></polyline>
+                <polyline id="Stroke-7" points="3.97221997 0.847515973 5.41699984 0.0133746628 6.86197336 0.847580522"></polyline>
+                <polyline id="Stroke-9" points="9.36469099 10.1875458 10.8094709 9.35340451 10.8094063 7.68534781"></polyline>
+                <polyline id="Stroke-11" points="1.46909891 10.1874813 0.024544959 9.35337223 0.0244804095 7.68534781"></polyline>
             </g>
-            <polygon id="Stroke-15" stroke="#6AFF61" stroke-width="0.796341805" stroke-linejoin="bevel" points="3.19011851 9.10778112 6.15561932 3.97132554 9.12115681 9.10778112"></polygon>
-            <polygon id="Fill-16" fill="#6AFF61" points="5.35886539 7.85568159 6.15564866 6.47553193 6.95239526 7.85568159"></polygon>
+            <g id="Group" transform="translate(3.190119, 3.800000)">
+                <polygon id="Stroke-15" stroke="#6AFF61" stroke-width="0.796341805" stroke-linejoin="bevel" points="-9.76996262e-15 5.13645558 2.96550081 -1.42108547e-14 5.9310383 5.13645558"></polygon>
+                <polygon id="Fill-16" fill="#6AFF61" points="2.16874688 3.88435605 2.96553015 2.50420639 3.76227675 3.88435605"></polygon>
+            </g>
         </g>
     </g>
 </svg>

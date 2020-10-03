@@ -26,8 +26,8 @@
   	<meta property="og:image:secure_url"
   	      content="https://ar.a3.kyiv.ua/i/og.png" />
   	<meta property="og:image:type" content="image/jpeg" />
-  	<meta property="og:image:width" content="630" />
-  	<meta property="og:image:height" content="630" />
+  	<meta property="og:image:width" content="800" />
+  	<meta property="og:image:height" content="800" />
   	<meta property="og:image:alt" content="" />
 	
 	
@@ -38,7 +38,7 @@
   	<link rel="icon" type="image/png" sizes="16x16"
   	      href="/i/favicon/favicon-16x16.png">
   	<!-- <link rel="manifest" href="/i/favicon/site.webmanifest"> -->
-  	<link rel="mask-icon" href="/i/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  	<link rel="mask-icon" href="/i/favicon.svg" color="#000000">
   	<link rel="shortcut icon" href="/i/favicon/favicon.ico">
   	<meta name="msapplication-TileColor" content="#000000">
   	<!-- <meta name="msapplication-config" content="/i/favicon/browserconfig.xml"> -->
