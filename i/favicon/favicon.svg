@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon-16x16</title>
+    <g id="favicon-16x16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="16" height="16"></rect>
+        <g id="Group-17" transform="translate(1.850000, 1.000000)">
+            <g id="Group-13" transform="translate(0.000000, 0.011553)" stroke="#FFFFFF" stroke-width="0.796341805">
+                <polyline id="Stroke-1" points="0.0277196225 5.44916505 0.0277929742 3.5531326 1.6698817 2.60506137"></polyline>
+                <polyline id="Stroke-3" points="4.51406607 13.2189701 6.15560465 14.1668213 7.79706989 13.2191168"></polyline>
+                <polyline id="Stroke-5" points="10.6418374 2.60533277 12.283376 3.55314727 12.2834493 5.44870293"></polyline>
+                <polyline id="Stroke-7" points="4.51388636 0.963086338 6.15568167 0.0151984805 7.79769704 0.96315969"></polyline>
+                <polyline id="Stroke-9" points="10.6416944 11.5767567 12.2834897 10.6288688 12.2834163 8.73334983"></polyline>
+                <polyline id="Stroke-11" points="1.66943058 11.5766833 0.0278919991 10.6288321 0.0278186473 8.73334983"></polyline>
+            </g>
+            <polygon id="Stroke-15" stroke="#6AFF61" stroke-width="0.796341805" stroke-linejoin="bevel" points="3.19011851 9.10778112 6.15561932 3.97132554 9.12115681 9.10778112"></polygon>
+            <polygon id="Fill-16" fill="#6AFF61" points="5.35886539 7.85568159 6.15564866 6.47553193 6.95239526 7.85568159"></polygon>
+        </g>
+    </g>
+</svg>
