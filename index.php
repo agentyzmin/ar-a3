@@ -55,6 +55,17 @@
 		  vertical-align: middle;
 		}
 
+
+
+		@media (prefers-color-scheme: dark) {
+			body.bg-light {
+				background-color: #121517 !important;
+				color:#E4E4E4;
+			}
+			.doc-shadow {
+				box-shadow: 0 5px 12px 0 #000000;
+			}
+		}	
 	</style>
 
 
